@@ -15,10 +15,7 @@ An interactive **Data Analytics & Time-Series Dashboard** project that analyzes 
 ---
 
 ## 📸 Dashboard Preview
-![Uploading Screenshot 2026-02-13 141449.png…]
-
-![Dashboard Preview]
-
+Screenshot 2026-02-13 141449.png
 ---
 
 ## 🎥 Demo Video (Click to Watch)
