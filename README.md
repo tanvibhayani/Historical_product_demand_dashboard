@@ -16,18 +16,17 @@ An interactive **Data Analytics & Time-Series Dashboard** project that analyzes 
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](Screenshot%202026-02-13%20141449.png)
 
-> Make sure your image is inside the `images/` folder with the exact name: `dashboard_preview.png`
+
 
 ---
 
 ## 🎥 Demo Video (Click to Watch)
 
 ▶️ **Watch the dashboard walkthrough:**  
-https://github.com/user-attachments/assets/0bd83dd8-6489-42e5-9e5b-ca538a118a7e
 
-> Note: GitHub opens videos via link (click to view/download).
+https://github.com/user-attachments/assets/796de17f-ece7-424a-b503-54c0a10b5676
 
 ---
 
