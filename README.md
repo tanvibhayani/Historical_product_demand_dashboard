@@ -15,10 +15,9 @@ An interactive **Data Analytics & Time-Series Dashboard** project that analyzes 
 ---
 
 ## 📸 Dashboard Preview
+![Uploading Screenshot 2026-02-13 141449.png…]
 
-![Dashboard Preview](Screenshot 2026-02-13 141449.png)
-
-
+![Dashboard Preview]
 
 ---
 
@@ -26,12 +25,6 @@ An interactive **Data Analytics & Time-Series Dashboard** project that analyzes 
 
 
 https://github.com/user-attachments/assets/0bd83dd8-6489-42e5-9e5b-ca538a118a7e
-
-
-▶️ **Watch the dashboard walkthrough:**  
-[Watch Demo Video]
-
-> Note: GitHub opens videos via link (click to view/download).
 
 ---
 
