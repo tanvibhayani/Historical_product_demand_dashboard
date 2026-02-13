@@ -1,2 +1,80 @@
-# Historical_product_demand_dashboard
-This repository contains a data analytics project focused on analyzing historical product demand and visualizing key trends using an interactive dashboard.
+# 📊 Historical Product Demand Dashboard
+
+An interactive **Data Analytics & Time-Series Dashboard** project that analyzes historical product demand to uncover trends, seasonality, and warehouse/category-wise patterns. This project demonstrates practical skills in data cleaning, feature engineering, and dashboard storytelling.
+
+---
+
+## ✨ Highlights
+
+- 📈 Trend analysis of product demand over time  
+- 🏬 Warehouse-wise & category-wise comparison  
+- 🧮 Time-series features: rolling means & lag variables  
+- 📊 Clean, interactive dashboard for decision-making  
+- 🎥 Demo video included for quick walkthrough  
+
+---
+
+## 📸 Dashboard Preview
+
+![Dashboard Preview](Screenshot 2026-02-13 141449.png)
+
+
+
+---
+
+## 🎥 Demo Video (Click to Watch)
+
+
+https://github.com/user-attachments/assets/0bd83dd8-6489-42e5-9e5b-ca538a118a7e
+
+
+▶️ **Watch the dashboard walkthrough:**  
+[Watch Demo Video]
+
+> Note: GitHub opens videos via link (click to view/download).
+
+---
+
+## 🔍 Project Overview
+
+This project focuses on understanding **historical product demand** using structured data and time-series techniques. The dashboard provides actionable insights into:
+
+- How demand changes over **days, months, and years**  
+- Which **products, warehouses, and categories** perform better  
+- The effect of **seasonality, trends, and holidays** on demand  
+- Smoothed trends using **rolling averages**  
+- Short-term patterns using **lag features**  
+
+---
+
+## 🧠 Data Preparation & Feature Engineering
+
+The dataset is enriched with time-based features to support deeper analysis:
+
+- 📅 Date features: Year, Month, Day, Weekday  
+- ⏱️ Lag features: `lag_1`, `lag_7`, `lag_30`  
+- 📉 Rolling averages: `rolling_mean_7`, `rolling_mean_14`, `rolling_mean_30`  
+- 🎉 Holiday indicator: `is_holiday`  
+
+---
+
+## 🧰 Tools & Technologies
+
+- **Python** – Pandas, NumPy  
+- **Visualization / Dashboard** – Power BI / Tableau / Excel (update as per your tool)  
+- **Dataset** – CSV (cleaned historical demand data)  
+
+---
+
+## 🎯 Use Cases
+
+- 📊 Demand trend analysis  
+- 🏷️ Product performance comparison  
+- 🏬 Warehouse-level planning  
+- 📅 Time-series understanding for forecasting preparation  
+- 📁 Portfolio project for Data Science / Analytics roles  
+
+---
+
+## 📌 Project Structure
+
