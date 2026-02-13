@@ -15,13 +15,19 @@ An interactive **Data Analytics & Time-Series Dashboard** project that analyzes 
 ---
 
 ## 📸 Dashboard Preview
-Screenshot 2026-02-13 141449.png
+
+![Dashboard Preview](images/dashboard_preview.png)
+
+> Make sure your image is inside the `images/` folder with the exact name: `dashboard_preview.png`
+
 ---
 
 ## 🎥 Demo Video (Click to Watch)
 
-
+▶️ **Watch the dashboard walkthrough:**  
 https://github.com/user-attachments/assets/0bd83dd8-6489-42e5-9e5b-ca538a118a7e
+
+> Note: GitHub opens videos via link (click to view/download).
 
 ---
 
@@ -51,7 +57,7 @@ The dataset is enriched with time-based features to support deeper analysis:
 ## 🧰 Tools & Technologies
 
 - **Python** – Pandas, NumPy  
-- **Visualization / Dashboard** – Power BI / Tableau / Excel (update as per your tool)  
+- **Dashboard** – Power BI / Tableau / Excel (update as per your tool)  
 - **Dataset** – CSV (cleaned historical demand data)  
 
 ---
@@ -61,10 +67,7 @@ The dataset is enriched with time-based features to support deeper analysis:
 - 📊 Demand trend analysis  
 - 🏷️ Product performance comparison  
 - 🏬 Warehouse-level planning  
-- 📅 Time-series understanding for forecasting preparation  
+- 📅 Time-series understanding for forecasting  
 - 📁 Portfolio project for Data Science / Analytics roles  
 
----
-
-## 📌 Project Structure
 
